@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-robots-from-robohash/static/css/main.c43979af.css",
+    "main.js": "/react-robots-from-robohash/static/js/main.3f753c7d.js",
+    "index.html": "/react-robots-from-robohash/index.html",
+    "main.c43979af.css.map": "/react-robots-from-robohash/static/css/main.c43979af.css.map",
+    "main.3f753c7d.js.map": "/react-robots-from-robohash/static/js/main.3f753c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43979af.css",
+    "static/js/main.3f753c7d.js"
+  ]
+}
